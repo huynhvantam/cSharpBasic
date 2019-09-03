@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <StartupObject>coban1.Class1</StartupObject>
+    <StartupObject>coban1.Class5swap2Number</StartupObject>
   </PropertyGroup>
 
 </Project>

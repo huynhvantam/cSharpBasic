@@ -8,7 +8,8 @@ namespace coban1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello ");
+            Console.WriteLine("Hellod!");
+            Console.WriteLine("tôi tên là tâm");
         }
     }
 }
