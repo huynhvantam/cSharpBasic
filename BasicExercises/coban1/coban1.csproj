@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp2.1</TargetFramework>
-    <StartupObject>coban1.Class22ifelse</StartupObject>
+    <StartupObject>coban1.Class27</StartupObject>
   </PropertyGroup>
 
 </Project>
