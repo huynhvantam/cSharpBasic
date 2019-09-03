@@ -1,0 +1,22 @@
+C:\Users\Administrator\Desktop\C\Basic Exercises\coban1\coban1\bin\Debug\netcoreapp2.1\coban1.deps.json
+C:\Users\Administrator\Desktop\C\Basic Exercises\coban1\coban1\bin\Debug\netcoreapp2.1\coban1.runtimeconfig.json
+C:\Users\Administrator\Desktop\C\Basic Exercises\coban1\coban1\bin\Debug\netcoreapp2.1\coban1.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C\Basic Exercises\coban1\coban1\bin\Debug\netcoreapp2.1\coban1.dll
+C:\Users\Administrator\Desktop\C\Basic Exercises\coban1\coban1\bin\Debug\netcoreapp2.1\coban1.pdb
+C:\Users\Administrator\Desktop\C\Basic Exercises\coban1\coban1\obj\Debug\netcoreapp2.1\coban1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C\Basic Exercises\coban1\coban1\obj\Debug\netcoreapp2.1\coban1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C\Basic Exercises\coban1\coban1\obj\Debug\netcoreapp2.1\coban1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C\Basic Exercises\coban1\coban1\obj\Debug\netcoreapp2.1\coban1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C\Basic Exercises\coban1\coban1\obj\Debug\netcoreapp2.1\coban1.dll
+C:\Users\Administrator\Desktop\C\Basic Exercises\coban1\coban1\obj\Debug\netcoreapp2.1\coban1.pdb
+C:\Users\Administrator\Desktop\C\BasicExercises\coban1\obj\Debug\netcoreapp2.1\coban1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\C\BasicExercises\coban1\obj\Debug\netcoreapp2.1\coban1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C\BasicExercises\coban1\obj\Debug\netcoreapp2.1\coban1.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C\BasicExercises\coban1\obj\Debug\netcoreapp2.1\coban1.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C\BasicExercises\coban1\obj\Debug\netcoreapp2.1\coban1.dll
+C:\Users\Administrator\Desktop\C\BasicExercises\coban1\obj\Debug\netcoreapp2.1\coban1.pdb
+C:\Users\Administrator\Desktop\C\BasicExercises\coban1\bin\Debug\netcoreapp2.1\coban1.deps.json
+C:\Users\Administrator\Desktop\C\BasicExercises\coban1\bin\Debug\netcoreapp2.1\coban1.runtimeconfig.json
+C:\Users\Administrator\Desktop\C\BasicExercises\coban1\bin\Debug\netcoreapp2.1\coban1.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\C\BasicExercises\coban1\bin\Debug\netcoreapp2.1\coban1.dll
+C:\Users\Administrator\Desktop\C\BasicExercises\coban1\bin\Debug\netcoreapp2.1\coban1.pdb
