@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\C\\BasicExercises\\coban1\\coban1.csproj": {}
+    "C:\\Users\\Yoh\\Desktop\\cSharpBasic\\BasicExercises\\coban1\\coban1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\C\\BasicExercises\\coban1\\coban1.csproj": {
+    "C:\\Users\\Yoh\\Desktop\\cSharpBasic\\BasicExercises\\coban1\\coban1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\C\\BasicExercises\\coban1\\coban1.csproj",
+        "projectUniqueName": "C:\\Users\\Yoh\\Desktop\\cSharpBasic\\BasicExercises\\coban1\\coban1.csproj",
         "projectName": "coban1",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\C\\BasicExercises\\coban1\\coban1.csproj",
-        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\C\\BasicExercises\\coban1\\obj\\",
+        "projectPath": "C:\\Users\\Yoh\\Desktop\\cSharpBasic\\BasicExercises\\coban1\\coban1.csproj",
+        "packagesPath": "C:\\Users\\Yoh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yoh\\Desktop\\cSharpBasic\\BasicExercises\\coban1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

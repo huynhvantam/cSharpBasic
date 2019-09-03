@@ -9,16 +9,15 @@ namespace coban1
         public static void Main(string[] args)
         {
             int number1, number2, temp;
-            Console.WriteLine("\n Input the First Number");
+            Console.WriteLine("nhap so 1");
             number1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("\n Output the Second Number");
+            Console.WriteLine("nhap so 2");
             number2 = int.Parse(Console.ReadLine());
             temp = number1;
             number1 = number2;
             number2 = temp;
-            Console.Write("\nFirst Number : " + number1);
-            Console.Write("\nSecond Number : " + number2);
-            Console.Read();
+            Console.WriteLine("so thu 1 :" + number1 + "\nso thu 2 :" + number2);
+
         }
     }
 }

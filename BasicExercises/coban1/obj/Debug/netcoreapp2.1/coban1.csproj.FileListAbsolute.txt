@@ -20,3 +20,14 @@ C:\Users\Administrator\Desktop\C\BasicExercises\coban1\bin\Debug\netcoreapp2.1\c
 C:\Users\Administrator\Desktop\C\BasicExercises\coban1\bin\Debug\netcoreapp2.1\coban1.runtimeconfig.dev.json
 C:\Users\Administrator\Desktop\C\BasicExercises\coban1\bin\Debug\netcoreapp2.1\coban1.dll
 C:\Users\Administrator\Desktop\C\BasicExercises\coban1\bin\Debug\netcoreapp2.1\coban1.pdb
+C:\Users\Yoh\Desktop\cSharpBasic\BasicExercises\coban1\bin\Debug\netcoreapp2.1\coban1.deps.json
+C:\Users\Yoh\Desktop\cSharpBasic\BasicExercises\coban1\bin\Debug\netcoreapp2.1\coban1.runtimeconfig.json
+C:\Users\Yoh\Desktop\cSharpBasic\BasicExercises\coban1\bin\Debug\netcoreapp2.1\coban1.runtimeconfig.dev.json
+C:\Users\Yoh\Desktop\cSharpBasic\BasicExercises\coban1\bin\Debug\netcoreapp2.1\coban1.dll
+C:\Users\Yoh\Desktop\cSharpBasic\BasicExercises\coban1\bin\Debug\netcoreapp2.1\coban1.pdb
+C:\Users\Yoh\Desktop\cSharpBasic\BasicExercises\coban1\obj\Debug\netcoreapp2.1\coban1.csprojAssemblyReference.cache
+C:\Users\Yoh\Desktop\cSharpBasic\BasicExercises\coban1\obj\Debug\netcoreapp2.1\coban1.csproj.CoreCompileInputs.cache
+C:\Users\Yoh\Desktop\cSharpBasic\BasicExercises\coban1\obj\Debug\netcoreapp2.1\coban1.AssemblyInfoInputs.cache
+C:\Users\Yoh\Desktop\cSharpBasic\BasicExercises\coban1\obj\Debug\netcoreapp2.1\coban1.AssemblyInfo.cs
+C:\Users\Yoh\Desktop\cSharpBasic\BasicExercises\coban1\obj\Debug\netcoreapp2.1\coban1.dll
+C:\Users\Yoh\Desktop\cSharpBasic\BasicExercises\coban1\obj\Debug\netcoreapp2.1\coban1.pdb
