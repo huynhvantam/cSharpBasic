@@ -1,0 +1,11 @@
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\Shapes\bin\Debug\netcoreapp2.1\Shapes.deps.json
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.json
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\Shapes\bin\Debug\netcoreapp2.1\Shapes.runtimeconfig.dev.json
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\Shapes\bin\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\Shapes\bin\Debug\netcoreapp2.1\Shapes.pdb
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\Shapes\obj\Debug\netcoreapp2.1\Shapes.csprojAssemblyReference.cache
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\Shapes\obj\Debug\netcoreapp2.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\Shapes\obj\Debug\netcoreapp2.1\Shapes.AssemblyInfo.cs
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\Shapes\obj\Debug\netcoreapp2.1\Shapes.dll
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\Shapes\obj\Debug\netcoreapp2.1\Shapes.pdb

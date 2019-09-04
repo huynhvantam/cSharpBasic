@@ -1,0 +1,10 @@
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\ClassesStudent\bin\Debug\netcoreapp2.1\ClassesStudent.deps.json
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\ClassesStudent\bin\Debug\netcoreapp2.1\ClassesStudent.runtimeconfig.json
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\ClassesStudent\bin\Debug\netcoreapp2.1\ClassesStudent.runtimeconfig.dev.json
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\ClassesStudent\bin\Debug\netcoreapp2.1\ClassesStudent.dll
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\ClassesStudent\bin\Debug\netcoreapp2.1\ClassesStudent.pdb
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\ClassesStudent\obj\Debug\netcoreapp2.1\ClassesStudent.csproj.CoreCompileInputs.cache
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\ClassesStudent\obj\Debug\netcoreapp2.1\ClassesStudent.AssemblyInfoInputs.cache
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\ClassesStudent\obj\Debug\netcoreapp2.1\ClassesStudent.AssemblyInfo.cs
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\ClassesStudent\obj\Debug\netcoreapp2.1\ClassesStudent.dll
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\ClassesStudent\obj\Debug\netcoreapp2.1\ClassesStudent.pdb
