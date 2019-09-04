@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\huynh\\OneDrive\\Máy tính\\cSharpBasic\\OOT\\Square\\Square.csproj": {}
+    "C:\\Users\\Yoh\\Desktop\\cSharpBasic\\OOT\\Square\\Square.csproj": {}
   },
   "projects": {
-    "C:\\Users\\huynh\\OneDrive\\Máy tính\\cSharpBasic\\OOT\\Square\\Square.csproj": {
+    "C:\\Users\\Yoh\\Desktop\\cSharpBasic\\OOT\\Square\\Square.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\huynh\\OneDrive\\Máy tính\\cSharpBasic\\OOT\\Square\\Square.csproj",
+        "projectUniqueName": "C:\\Users\\Yoh\\Desktop\\cSharpBasic\\OOT\\Square\\Square.csproj",
         "projectName": "Square",
-        "projectPath": "C:\\Users\\huynh\\OneDrive\\Máy tính\\cSharpBasic\\OOT\\Square\\Square.csproj",
-        "packagesPath": "C:\\Users\\huynh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\huynh\\OneDrive\\Máy tính\\cSharpBasic\\OOT\\Square\\obj\\",
+        "projectPath": "C:\\Users\\Yoh\\Desktop\\cSharpBasic\\OOT\\Square\\Square.csproj",
+        "packagesPath": "C:\\Users\\Yoh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Yoh\\Desktop\\cSharpBasic\\OOT\\Square\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\huynh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Yoh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
