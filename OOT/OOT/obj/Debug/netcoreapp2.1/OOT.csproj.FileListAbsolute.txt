@@ -1,0 +1,11 @@
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\OOT\bin\Debug\netcoreapp2.1\OOT.deps.json
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\OOT\bin\Debug\netcoreapp2.1\OOT.runtimeconfig.json
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\OOT\bin\Debug\netcoreapp2.1\OOT.runtimeconfig.dev.json
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\OOT\bin\Debug\netcoreapp2.1\OOT.dll
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\OOT\bin\Debug\netcoreapp2.1\OOT.pdb
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\OOT\obj\Debug\netcoreapp2.1\OOT.csprojAssemblyReference.cache
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\OOT\obj\Debug\netcoreapp2.1\OOT.csproj.CoreCompileInputs.cache
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\OOT\obj\Debug\netcoreapp2.1\OOT.AssemblyInfoInputs.cache
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\OOT\obj\Debug\netcoreapp2.1\OOT.AssemblyInfo.cs
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\OOT\obj\Debug\netcoreapp2.1\OOT.dll
+C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\OOT\obj\Debug\netcoreapp2.1\OOT.pdb
