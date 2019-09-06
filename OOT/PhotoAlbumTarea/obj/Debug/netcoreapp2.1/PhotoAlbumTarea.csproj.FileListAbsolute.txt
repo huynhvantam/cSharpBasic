@@ -9,3 +9,14 @@ C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\PhotoAlbumTarea\obj\Debug\net
 C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.AssemblyInfo.cs
 C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.dll
 C:\Users\huynh\OneDrive\Máy tính\cSharpBasic\OOT\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.pdb
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\PhotoAlbumTarea\bin\Debug\netcoreapp2.1\PhotoAlbumTarea.deps.json
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\PhotoAlbumTarea\bin\Debug\netcoreapp2.1\PhotoAlbumTarea.runtimeconfig.json
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\PhotoAlbumTarea\bin\Debug\netcoreapp2.1\PhotoAlbumTarea.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\PhotoAlbumTarea\bin\Debug\netcoreapp2.1\PhotoAlbumTarea.dll
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\PhotoAlbumTarea\bin\Debug\netcoreapp2.1\PhotoAlbumTarea.pdb
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.dll
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\PhotoAlbumTarea\obj\Debug\netcoreapp2.1\PhotoAlbumTarea.pdb
