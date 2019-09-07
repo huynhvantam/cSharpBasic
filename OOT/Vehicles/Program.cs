@@ -5,58 +5,88 @@ namespace Vehicles
 {
     class Program
     {
-
-
-        //private static int input;
-
+        private static void Menu()
+        {
+            Console.WriteLine("Menu");
+            Console.WriteLine("1-Cho phep nhap Bike");
+            Console.WriteLine("2-Show list Bike");
+            Console.WriteLine("3-Cho phep nhap Car");
+            Console.WriteLine("4-Show list Car");
+            Console.WriteLine("5-Thoat");
+        }
         static void Main(string[] args)
         {
             int input;
+            List<Bike> bikelist = new List<Bike>();
+            List<Car> carlist = new List<Car>();
             do
             {
-
-            start: Console.WriteLine("Menu");
-                Console.WriteLine("1-Cho phep nhap Bike");
-                Console.WriteLine("2-Show list Bike");
-                Console.WriteLine("3-Cho phep nhap Car");
-                Console.WriteLine("4-Show list Car");
-                Console.WriteLine("5-Thoat");
+                Menu();
                 input = Convert.ToInt32(Console.ReadLine());
-                List<Bike> bikelist = new List<Bike>();
                 switch (input)
                 {
                     case 1:
-                        Console.WriteLine("==========");
-                        Console.WriteLine("1-Cho phep nhap Bike");
-                        Console.Write("Nhap bike");
-                        Console.WriteLine("nhap make di:");
-
-
-                        Console.WriteLine($"Bike Make:{bike1.Make}");
-                        Console.WriteLine("==========");
-                        for (var i = 0; i < 3; i++)
+                        Console.Write("Nhap so bike");
+                        int n = Int32.Parse(Console.ReadLine());
+                        Bike bike1;
+                        for (int i = 0; i < n; i++)
                         {
-                            Bike bike2 = new Bike();
+                            bike1 = new Bike();
+                            Console.Write("Speed: ");
+                            bike1.Speed = Int32.Parse(Console.ReadLine());
+                            Console.Write("Make: ");
+                            bike1.Make = Console.ReadLine();
+                            Console.Write("Model: ");
+                            bike1.Model = Console.ReadLine();
+                            Console.Write("Year: ");
+                            bike1.Year = Console.ReadLine();
+                            bikelist.Add(bike1);
+                        }
+                        break;
+                    case 2:
+                        foreach (var vehicle in bikelist)
+                        {
+                            Console.WriteLine(vehicle.ToString());
+                        }
+                      
+                        break;
 
-                            bikelist.Add(bike2);
+
+                    case 3:
+                        Console.Write("Nhap so Car: ");
+                        int m = Int32.Parse(Console.ReadLine());
+                        Car car1;
+                        for (int i = 0; i < m; i++)
+                        {
+                            car1 = new Car();
+                            Console.Write("Speed: ");
+                            car1.Speed = Int32.Parse(Console.ReadLine());
+                            Console.Write("Make: ");
+                            car1.Make = Console.ReadLine();
+                            Console.Write("Model: ");
+                            car1.Model = Console.ReadLine();
+                            Console.Write("Year: ");
+                            car1.Year = Console.ReadLine();
+                            carlist.Add(car1);
                         }
 
-                        foreach (var item in bikelist)
-                        {
-
-                        }
-                        goto start;
                         break;
                     case 4:
-                        Console.WriteLine("Out !");
+                        foreach (var car in carlist)
+                        {
+                            Console.WriteLine(car.ToString());
+                        }
+                        break;
+                    case 5:
+                        Console.WriteLine("Exit");
                         break;
                     default:
-                        Console.WriteLine("Wrong !");
-                        goto start;
+                        Console.WriteLine("Wrong!");
                         break;
                 }
+            }
+            while (input != 5);
 
-            } while (input > 4);
         }
     }
 }

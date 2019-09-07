@@ -6,12 +6,44 @@ namespace Vehicles
 {
     class Vehicle
     {
+        private int id;
+        //private static int idTemp = 1;
+
         private string make;
         private string model;
         private string year;
+        //public Vehicle()
+        //{
+        //    id = idTemp++;
+        //}
+
         public string Make { get => make; set => make = value; }
         public string Model { get => model; set => model = value; }
         public string Year { get => year; set => year = value; }
+        
+
+
+        //public int ID { get => id; }
+
+
+        //public string Make
+        //{
+        //    set { make = value; }
+        //    get { return make; }
+        //}
+
+        //public string Model
+        //{
+        //    set { model = value; }
+        //    get { return model; }
+        //}
+
+        //public string Year
+        //{
+        //    set { year = value; }
+        //    get { return year; }
+        //}
+
 
         public Vehicle()
         {
@@ -22,10 +54,12 @@ namespace Vehicles
             Model = model;
             Year = year;
         }
-
-        public string ToString()
+     public virtual string ToString()
         {
-            return "";
+            return Make + Model + Year;
         }
+
+
+
     }
 }
