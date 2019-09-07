@@ -20,6 +20,7 @@ namespace Vehicles
        
         public Vehicle()
         {
+            id = idTemp++;
         }
         public Vehicle(string make, string model, string year)
         {
