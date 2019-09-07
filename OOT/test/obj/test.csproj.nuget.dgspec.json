@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\huynh\\OneDrive\\Máy tính\\cSharpBasic\\OOT\\ClassesStudent\\ClassesStudent.csproj": {}
+    "C:\\Users\\huynh\\OneDrive\\Máy tính\\cSharpBasic\\OOT\\test\\test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\huynh\\OneDrive\\Máy tính\\cSharpBasic\\OOT\\ClassesStudent\\ClassesStudent.csproj": {
+    "C:\\Users\\huynh\\OneDrive\\Máy tính\\cSharpBasic\\OOT\\test\\test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\huynh\\OneDrive\\Máy tính\\cSharpBasic\\OOT\\ClassesStudent\\ClassesStudent.csproj",
-        "projectName": "ClassesStudent",
-        "projectPath": "C:\\Users\\huynh\\OneDrive\\Máy tính\\cSharpBasic\\OOT\\ClassesStudent\\ClassesStudent.csproj",
+        "projectUniqueName": "C:\\Users\\huynh\\OneDrive\\Máy tính\\cSharpBasic\\OOT\\test\\test.csproj",
+        "projectName": "test",
+        "projectPath": "C:\\Users\\huynh\\OneDrive\\Máy tính\\cSharpBasic\\OOT\\test\\test.csproj",
         "packagesPath": "C:\\Users\\huynh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\huynh\\OneDrive\\Máy tính\\cSharpBasic\\OOT\\ClassesStudent\\obj\\",
+        "outputPath": "C:\\Users\\huynh\\OneDrive\\Máy tính\\cSharpBasic\\OOT\\test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
