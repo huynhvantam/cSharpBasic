@@ -1,0 +1,11 @@
+C:\CODE\C#\OOPandFriends\Shapes\bin\Debug\netcoreapp2.2\Shapes.deps.json
+C:\CODE\C#\OOPandFriends\Shapes\bin\Debug\netcoreapp2.2\Shapes.runtimeconfig.json
+C:\CODE\C#\OOPandFriends\Shapes\bin\Debug\netcoreapp2.2\Shapes.runtimeconfig.dev.json
+C:\CODE\C#\OOPandFriends\Shapes\bin\Debug\netcoreapp2.2\Shapes.dll
+C:\CODE\C#\OOPandFriends\Shapes\bin\Debug\netcoreapp2.2\Shapes.pdb
+C:\CODE\C#\OOPandFriends\Shapes\obj\Debug\netcoreapp2.2\Shapes.csprojAssemblyReference.cache
+C:\CODE\C#\OOPandFriends\Shapes\obj\Debug\netcoreapp2.2\Shapes.csproj.CoreCompileInputs.cache
+C:\CODE\C#\OOPandFriends\Shapes\obj\Debug\netcoreapp2.2\Shapes.AssemblyInfoInputs.cache
+C:\CODE\C#\OOPandFriends\Shapes\obj\Debug\netcoreapp2.2\Shapes.AssemblyInfo.cs
+C:\CODE\C#\OOPandFriends\Shapes\obj\Debug\netcoreapp2.2\Shapes.dll
+C:\CODE\C#\OOPandFriends\Shapes\obj\Debug\netcoreapp2.2\Shapes.pdb

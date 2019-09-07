@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\Vehicles\bin\Debug\netcoreapp2.2\Vehicles.deps.json
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\Vehicles\bin\Debug\netcoreapp2.2\Vehicles.runtimeconfig.json
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\Vehicles\bin\Debug\netcoreapp2.2\Vehicles.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\Vehicles\bin\Debug\netcoreapp2.2\Vehicles.dll
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\Vehicles\bin\Debug\netcoreapp2.2\Vehicles.pdb
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\Vehicles\obj\Debug\netcoreapp2.2\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\Vehicles\obj\Debug\netcoreapp2.2\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\Vehicles\obj\Debug\netcoreapp2.2\Vehicles.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\Vehicles\obj\Debug\netcoreapp2.2\Vehicles.dll
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\Vehicles\obj\Debug\netcoreapp2.2\Vehicles.pdb
+C:\Users\Administrator\Desktop\cSharpBasic\OOT\Vehicles\obj\Debug\netcoreapp2.2\Vehicles.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\cSharpBasic\hoc\hoc\bin\Debug\netcoreapp2.1\hoc.deps.json
+C:\Users\Administrator\Desktop\cSharpBasic\hoc\hoc\bin\Debug\netcoreapp2.1\hoc.runtimeconfig.json
+C:\Users\Administrator\Desktop\cSharpBasic\hoc\hoc\bin\Debug\netcoreapp2.1\hoc.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\cSharpBasic\hoc\hoc\bin\Debug\netcoreapp2.1\hoc.dll
+C:\Users\Administrator\Desktop\cSharpBasic\hoc\hoc\bin\Debug\netcoreapp2.1\hoc.pdb
+C:\Users\Administrator\Desktop\cSharpBasic\hoc\hoc\obj\Debug\netcoreapp2.1\hoc.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\cSharpBasic\hoc\hoc\obj\Debug\netcoreapp2.1\hoc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cSharpBasic\hoc\hoc\obj\Debug\netcoreapp2.1\hoc.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\cSharpBasic\hoc\hoc\obj\Debug\netcoreapp2.1\hoc.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\cSharpBasic\hoc\hoc\obj\Debug\netcoreapp2.1\hoc.dll
+C:\Users\Administrator\Desktop\cSharpBasic\hoc\hoc\obj\Debug\netcoreapp2.1\hoc.pdb
