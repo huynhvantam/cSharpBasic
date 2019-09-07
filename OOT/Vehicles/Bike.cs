@@ -8,13 +8,14 @@ namespace Vehicles
     {
         private string type;
         private double speed;
-        private string wheel;
+        public int Wheel { get; set; }
+
 
         public string Type { get => type; set => type = value; }
         public double Speed { get => speed; set => speed = value; }
         public Bike()
         {
-
+            Wheel = 2;
         }
         public Bike(string make, string model, string year,string type, double speed):base (make,model,year)
         {
@@ -24,7 +25,7 @@ namespace Vehicles
         }
         public override string ToString()
         {
-            return "Bike Speed:" + Speed + "    Bike Make:" + Make + "    Bike Model:" + Model + "    Bike Year:" + Year;
+            return "Bike Speed:" + Speed + "    Bike Make:" + Make + "    Bike Model:" + Model + "    Bike Year:" + Year + "    Bike Wheet:"+Wheel;
         }
 
     }
