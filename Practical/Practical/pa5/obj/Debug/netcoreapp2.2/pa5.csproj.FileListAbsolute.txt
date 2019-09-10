@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\pa5\obj\Debug\netcoreapp2.2\pa5.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\pa5\obj\Debug\netcoreapp2.2\pa5.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\pa5\obj\Debug\netcoreapp2.2\pa5.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\pa5\bin\Debug\netcoreapp2.2\pa5.deps.json
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\pa5\bin\Debug\netcoreapp2.2\pa5.runtimeconfig.json
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\pa5\bin\Debug\netcoreapp2.2\pa5.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\pa5\bin\Debug\netcoreapp2.2\pa5.dll
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\pa5\bin\Debug\netcoreapp2.2\pa5.pdb
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\pa5\obj\Debug\netcoreapp2.2\pa5.dll
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\pa5\obj\Debug\netcoreapp2.2\pa5.pdb

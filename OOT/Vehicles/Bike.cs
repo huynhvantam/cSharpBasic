@@ -6,9 +6,27 @@ namespace Vehicles
 {
     class Bike : Vehicle
     {
-        private int id = 0;
-        private string wheel;
-        public int Id { get => id; set => id = value; }
-        public string Wheel { get => wheel; set => wheel = value; }
+        private string type;
+        private double speed;
+        public int Wheel { get; set; }
+
+
+        public string Type { get => type; set => type = value; }
+        public double Speed { get => speed; set => speed = value; }
+        public Bike()
+        {
+            Wheel = 2;
+        }
+        public Bike(string make, string model, string year,string type, double speed):base (make,model,year)
+        {
+            Speed = speed;
+            Type = type;
+
+        }
+        public override string ToString()
+        {
+            return "ID"+Id+"       Bike Speed:" + Speed + "    Bike Make:" + Make + "    Bike Model:" + Model + "    Bike Year:" + Year + "    Bike Wheet:"+Wheel;
+        }
+
     }
 }

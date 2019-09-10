@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\Pa2\bin\Debug\netcoreapp2.2\Pa2.deps.json
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\Pa2\bin\Debug\netcoreapp2.2\Pa2.runtimeconfig.json
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\Pa2\bin\Debug\netcoreapp2.2\Pa2.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\Pa2\bin\Debug\netcoreapp2.2\Pa2.dll
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\Pa2\bin\Debug\netcoreapp2.2\Pa2.pdb
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\Pa2\obj\Debug\netcoreapp2.2\Pa2.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\Pa2\obj\Debug\netcoreapp2.2\Pa2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\Pa2\obj\Debug\netcoreapp2.2\Pa2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\Pa2\obj\Debug\netcoreapp2.2\Pa2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\Pa2\obj\Debug\netcoreapp2.2\Pa2.dll
+C:\Users\Administrator\Desktop\cSharpBasic\Practical\Practical\Pa2\obj\Debug\netcoreapp2.2\Pa2.pdb
