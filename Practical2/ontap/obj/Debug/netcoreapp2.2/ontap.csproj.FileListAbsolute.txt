@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Practical2\ontap\bin\Debug\netcoreapp2.2\ontap.deps.json
+C:\Users\Administrator\source\repos\Practical2\ontap\bin\Debug\netcoreapp2.2\ontap.runtimeconfig.json
+C:\Users\Administrator\source\repos\Practical2\ontap\bin\Debug\netcoreapp2.2\ontap.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Practical2\ontap\bin\Debug\netcoreapp2.2\ontap.dll
+C:\Users\Administrator\source\repos\Practical2\ontap\bin\Debug\netcoreapp2.2\ontap.pdb
+C:\Users\Administrator\source\repos\Practical2\ontap\obj\Debug\netcoreapp2.2\ontap.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Practical2\ontap\obj\Debug\netcoreapp2.2\ontap.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Practical2\ontap\obj\Debug\netcoreapp2.2\ontap.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Practical2\ontap\obj\Debug\netcoreapp2.2\ontap.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Practical2\ontap\obj\Debug\netcoreapp2.2\ontap.dll
+C:\Users\Administrator\source\repos\Practical2\ontap\obj\Debug\netcoreapp2.2\ontap.pdb
