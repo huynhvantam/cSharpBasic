@@ -45,7 +45,10 @@ namespace Practical2
                     Main();
                     break;
                 case 4:
-                    shop.SearchProduct();
+                    Console.WriteLine("SearchProduct");
+                    string seachName = Console.ReadLine();
+
+
                     Main();
                     break;
                 case 5:

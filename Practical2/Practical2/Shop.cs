@@ -6,7 +6,7 @@ namespace Practical2
 {
     class Shop
     {
-        private static List<Produck> ProductList = new List<Produck>();
+        public static List<Produck> ProductList = new List<Produck>();
         public void AddProduct()
         {
             Console.WriteLine("AddProduct");
@@ -27,31 +27,27 @@ namespace Practical2
             produck.Description = Console.ReadLine();
             ProductList.Add(produck);
         }
-        //public void RemoveProduct()
-        //{
-        //    Console.WriteLine("2.Remove product\n");
-        //    string name = Console.ReadLine();
-        //    int check = 0;
-        //    foreach (var item in ProductList)
-        //    {
-
-        //        if (string.Compare(item.Name, name) == 0)
-        //        {
-        //            ProductList.Remove(item);
-        //            check++;
-        //            Console.WriteLine("success");
-        //            break;
-        //        }
-        //    }
-
-        //    if (check == 0)
-        //    {
-        //        Console.WriteLine("Product doesn't exist\n");
-        //    }
         public void RemoveProduct()
         {
-            int check;
-            Console.WriteLine("RemoveProduct");
+            Console.WriteLine("2.Remove product\n");
+            string name = Console.ReadLine();
+            int check = 0;
+            foreach (var item in ProductList)
+            {
+
+                if (string.Compare(item.Name, name) == 0)
+                {
+                    ProductList.Remove(item);
+                    check++;
+                    Console.WriteLine("success");
+                    break;
+                }
+            }
+
+            if (check == 0)
+            {
+                Console.WriteLine("Product doesn't exist\n");
+            }
         }
         public void IterateProductList()
         {
@@ -64,11 +60,8 @@ namespace Practical2
             }
             Console.WriteLine("---------------------------\n");
         }
-        public void SearchProduct()
+        public void SearchProduct(string seachName)
         {
-            Console.WriteLine("SearchProduct");
-            string seachName = Console.ReadLine();
-
             foreach (var produck in ProductList)
             {
                 if (produck.Name == seachName)

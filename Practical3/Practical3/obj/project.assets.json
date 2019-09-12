@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\cSharpBasic\\Practical2\\Practical2\\Practical2.csproj",
-      "projectName": "Practical2",
-      "projectPath": "C:\\Users\\Administrator\\Desktop\\cSharpBasic\\Practical2\\Practical2\\Practical2.csproj",
+      "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\cSharpBasic\\Practical3\\Practical3\\Practical3.csproj",
+      "projectName": "Practical3",
+      "projectPath": "C:\\Users\\Administrator\\Desktop\\cSharpBasic\\Practical3\\Practical3\\Practical3.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Desktop\\cSharpBasic\\Practical2\\Practical2\\obj\\",
+      "outputPath": "C:\\Users\\Administrator\\Desktop\\cSharpBasic\\Practical3\\Practical3\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

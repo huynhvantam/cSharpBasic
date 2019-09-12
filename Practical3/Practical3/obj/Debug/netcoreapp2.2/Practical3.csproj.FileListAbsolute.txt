@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\cSharpBasic\Practical3\Practical3\bin\Debug\netcoreapp2.2\Practical3.deps.json
+C:\Users\Administrator\Desktop\cSharpBasic\Practical3\Practical3\bin\Debug\netcoreapp2.2\Practical3.runtimeconfig.json
+C:\Users\Administrator\Desktop\cSharpBasic\Practical3\Practical3\bin\Debug\netcoreapp2.2\Practical3.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\cSharpBasic\Practical3\Practical3\bin\Debug\netcoreapp2.2\Practical3.dll
+C:\Users\Administrator\Desktop\cSharpBasic\Practical3\Practical3\bin\Debug\netcoreapp2.2\Practical3.pdb
+C:\Users\Administrator\Desktop\cSharpBasic\Practical3\Practical3\obj\Debug\netcoreapp2.2\Practical3.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\cSharpBasic\Practical3\Practical3\obj\Debug\netcoreapp2.2\Practical3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cSharpBasic\Practical3\Practical3\obj\Debug\netcoreapp2.2\Practical3.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\cSharpBasic\Practical3\Practical3\obj\Debug\netcoreapp2.2\Practical3.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\cSharpBasic\Practical3\Practical3\obj\Debug\netcoreapp2.2\Practical3.dll
+C:\Users\Administrator\Desktop\cSharpBasic\Practical3\Practical3\obj\Debug\netcoreapp2.2\Practical3.pdb
