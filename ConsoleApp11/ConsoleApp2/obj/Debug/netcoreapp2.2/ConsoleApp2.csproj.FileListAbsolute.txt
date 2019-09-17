@@ -8,3 +8,4 @@ C:\Users\Administrator\Desktop\cSharpBasic\ConsoleApp11\ConsoleApp2\obj\Debug\ne
 C:\Users\Administrator\Desktop\cSharpBasic\ConsoleApp11\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.AssemblyInfo.cs
 C:\Users\Administrator\Desktop\cSharpBasic\ConsoleApp11\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.dll
 C:\Users\Administrator\Desktop\cSharpBasic\ConsoleApp11\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.pdb
+C:\Users\Administrator\Desktop\cSharpBasic\ConsoleApp11\ConsoleApp2\obj\Debug\netcoreapp2.2\ConsoleApp2.csprojAssemblyReference.cache

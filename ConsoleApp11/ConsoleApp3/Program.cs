@@ -1,180 +1,162 @@
 ﻿using System;
-using System.Linq;
-
-namespace ConsoleApp3
+using System.Collections.Generic;
+using System.IO;
+namespace FileIO
 {
     class Program
     {
-        static int[] arr = new int[4] { 3, 7, 5, 11 };
-        static void Main()
+        static void Main(string[] args)
         {
-            Menu();
-            Min();
-            Max();
-            Sum();
-            Search();
+            var filePath = "Text22.txt";
+            Console.WriteLine("how many ?");
+            var number = int.Parse(Console.ReadLine());
+            var numberList = new List<int>();
+            WriteTF(filePath, number);
+            ReadTF(filePath, numberList);
 
-            //chieudaiMang();
-            //mang2chieu();
-            //mang1chieu();
-            //freetut();
-            //mangmang();
-            //baitapmang1chieu();
-        }
-
-        static void Sum()
-        {
-            Console.WriteLine($"Max cua arr: {arr.Max()}");
-            int sum = 0;
-            foreach (var item in arr)
+        #region
+        Menu:
+            switch (Menu())
             {
-                sum += item;
+                case 1:
+                    FindMinMax(numberList, true);
+                    goto Menu;
+                case 2:
+                    FindMinMax(numberList, false);
+                    goto Menu;
+                case 3:
+                    Sum(numberList);
+                    goto Menu;
+                case 4:
+                    Sort(numberList, filePath);
+                    goto Menu;
+                case 5:
+                    Search(numberList);
+                    goto Menu;
+                case 6:
+                    break;
             }
-            Console.WriteLine($"Sum cua arr: {sum}");
+            #endregion
         }
-        static void Min()
-        {
-            Console.WriteLine($"Min cua arr: {arr.Min()}");
-        }
-        static void Max()
-        {
-            Console.WriteLine($"Max cua arr: {arr.Max()}");
-        }
-        static void Search()
-        {
-            Console.WriteLine("nhap gia tri can tim");
-            int num = int.Parse(Console.ReadLine());
-            int count = 0;
-            for (int i = 0; i < arr.Length; i++)
-            {
-
-                if (num == arr[i])
-                {
-                    Console.WriteLine($"gia tri {num} nam o index {i}");
-                    count++;
-                }
-
-            }
-            if (count == 0)
-            {
-                Console.WriteLine("khong tim thay");
-            }
-        }
-        static void Menu()
+        #region
+        private static int Menu()
         {
             Console.WriteLine("Menu");
-            Console.WriteLine("1-Max");
-            Console.WriteLine("2-Min");
-            Console.WriteLine("3-Tong");
-            Console.WriteLine("4-Sort");
-            Console.WriteLine("5-Search");
+            Console.WriteLine("1.Find Min");
+            Console.WriteLine("2.Find Max");
+            Console.WriteLine("3.Find Sum");
+            Console.WriteLine("4.Sort");
+            Console.WriteLine("5.Search");
+            Console.WriteLine("6.Exit");
+            return int.Parse(Console.ReadLine());
         }
+        #endregion
+        #region
+        private static void Search(List<int> list)
+        {
+            Console.WriteLine("search for what number ?");
+            int target = int.Parse(Console.ReadLine());
+            bool count = false;
+            for (var i = 0; i < list.Count; i++)
+            {
+                if (list[i] == target)
+                {
+                    Console.WriteLine($"{target}found at {i}");
+                    count = true;
+                }
+            }
+            if (count == false)
+            {
+                Console.WriteLine("no number");
+            }
+        }
+        #endregion
+        #region
+        private static void Sort(List<int> list, string path)
+        {
+            int n = list.Count;
+            for (int i = 0; i < n - 1; i++)
+            {
+                for (int j = 0; j < n - i - 1; j++)
+                {
+                    if (list[j] > list[j + 1])
+                    {
+                        int temp = list[j];
+                        list[j] = list[j + 1];
+                        list[j + 1] = temp;
+                    }
+                }
+            }
+            var sw = new StreamWriter(path, false);
+            for (int i = 0; i < list.Count; i++)
+            {
+                sw.Write(list[i] + "-");
+            }
+            sw.Close();
+        }
+        #endregion
+        #region
+        private static void Sum(List<int> list)
+        {
+            int Sum = 0;
+            for (int i = 0; i < list.Count; i++)
+            {
+                Sum += list[i];
+            }
+            Console.WriteLine($"Sum: {Sum}");
+        }
+        private static void FindMinMax(List<int> list, bool Case)
+        {
+            var min = list[1];
+            var max = list[list.Count - 1];
+            for (int i = 0; i < list.Count - 1; i++)
+            {
+                if (list[i] < min)
+                {
+                    min = list[i];
+                }
+                if (list[i] > max)
+                {
+                    max = list[i];
+                }
+            }
+            if (Case)
+            {
+                Console.WriteLine($"min: {min}");
+            }
+            if (!Case)
+            {
+                Console.WriteLine($"max: {max}");
+            }
+        }
+        #endregion
+        private static void ReadTF(string filePath, List<int> list)
+        {
+            StreamReader sr = new StreamReader(filePath);
+            Console.WriteLine($"do dai cua mang : {sr.ReadLine()}");
+            string number = sr.ReadLine();
 
+            string[] NumberStringSPlit = number.Split("-");
+            for (var i = 0; i < NumberStringSPlit.Length; i++)
+            {
+                list.Add(int.Parse(NumberStringSPlit[i].Trim()));
+            }
+            sr.Close();
+        }
+        private static void WriteTF(string filePath, int number)
+        {
+            Random random = new Random();
+            var sw = new StreamWriter(filePath, false);
+            sw.WriteLine(number);
+            for (var i = 0; i < number; i++)
+            {
+                sw.Write(random.Next(1, 100) + "-");
+                if (i == number - 1)
+                {
+                    sw.Write(random.Next(1, 100));
+                }
+            }
+            sw.Close();
+        }
     }
 }
-//static void chieudaiMang()
-//{
-//    int[] arr = new int[5];
-//    int len = arr.Length;
-//    Console.WriteLine($"do dai cua mang {len}");
-//    long longLength = arr.LongLength;
-//    Console.WriteLine("DO LON CUA DO DAI MA TRAN  : {0}", longLength);
-//    int[,] arr2 = new int[2, 10];
-//    Console.WriteLine($"sophan tu cua ma tran 2 chieu {arr2.Length}");
-
-//}
-//static void mang2chieu()
-//{
-//    int[][] Arr = new int[3][];
-//    Arr[0] = new int[] { 10, 20, 30 };
-//    Arr[1] = new int[] { 40, 50, 60, 70 };
-//    Arr[2] = new int[] { 80, 90, 100, 110, 120 };
-//    //for (int i = 0; i < Arr.Length; i++)
-//    //{
-//    //    for (int j = 0; j < Arr.Length; j++)
-//    //    {
-//    //        Console.WriteLine(Arr[i][j]);
-//    //    }
-//    //}
-//    int[,] numbers = new int[3, 2] { { 9, 99 }, { 3, 33 }, { 5, 55 } };
-//    foreach (int i in numbers)
-//    {
-//        Console.Write(i);
-//    }
-//}
-//static void mang1chieu()
-//{
-//    int[] arr = new int[5] { 1, 2, 3, 4, 5 };
-//    string[] arr1 = new string[2] { "haha", "hhehe" };
-//    int[] arr2 = { 1, 2, 3, 43, 54 };
-//    string[] arr3 = { "hoho", "haha" };
-//    int len = arr.Length;
-//    foreach (var item in arr)
-//    {
-//        Console.WriteLine(item);
-//    }
-//}
-//static void freetut()
-//{
-//    int[] arr = new int[5]; //tạo mảng
-//    arr[0] = 5;  // khỏi tạo giá trị cho phần tử thứ nhất
-//    arr[2] = 10;
-//    arr[4] = 3;
-
-//    // Duyệt qua từng phần tử mảng
-//    //for (int i = 0; i < arr.Length; i++)
-//    //{
-//    //    Console.WriteLine("Gia tri phan tu thu " + (i + 1) + " = " + arr[i]);
-//    //}
-//    foreach (var item in arr)
-//    {
-//        Console.WriteLine(item);
-//    }
-
-//    Console.WriteLine("00000000000000000000000000000000000");
-//    int[,] arr1 = new int[3, 3];
-//    arr1[0, 1] = 2;
-//    arr1[1, 2] = 3;
-//    arr1[2, 0] = 4;
-//    //foreach (var item in arr1)
-//    //{
-//    //    Console.WriteLine($"phan tu thu la {item}");
-//    //}
-//    for (int i = 0; i < 3; i++)
-//    {
-//        for (int j = 0; j < 3; j++)
-//        {
-//            Console.WriteLine($"phan tu thu [{i}][{j}] la {arr1[i, j]}");
-//            Console.WriteLine();
-//        }
-//    }
-
-//    Console.ReadKey();
-//}
-//static void mangmang()
-//{
-//    int[][] arr = new int[3][];
-//    arr[0] = new int[] { 1, 2, 3 };
-//    arr[1] = new int[3] { 4, 5, 6 };
-//    arr[2] = new int[1];
-//    int[][] arr1 = new int[3][] { new int[] { 1, 2, 3 }, new int[] { 4, 5, 6 }, new int[3] };
-//    for (int i = 0; i < arr.Length; i++)
-//    {
-//        Console.WriteLine($"gia tri phan tu ");
-//        for (int j = 0; j < arr.Length; j++)
-//        {
-//            //Console.WriteLine($"index [{i}][{j}] = {arr[i][j]} ");
-//            Console.WriteLine($"");
-//        }
-
-//    }
-
-//    int[] arr2 = new int[3]; //tạo mảng
-//    arr2[0] = 5;  // khỏi tạo giá trị cho phần tử thứ nhất
-//    arr2[1] = 10;
-//    arr2[2] = 3;
-//    int maxValue = arr2.Max();
-//    Console.WriteLine($"gia tri phan tu max{arr2.Max()}");
-//    Console.WriteLine($"gia tri phan tu min {arr2.Min()}");
-
-//}

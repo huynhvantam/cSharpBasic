@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\cSharpBasic\pokemon\pokemon\bin\Debug\netcoreapp2.2\pokemon.deps.json
+C:\Users\Administrator\Desktop\cSharpBasic\pokemon\pokemon\bin\Debug\netcoreapp2.2\pokemon.runtimeconfig.json
+C:\Users\Administrator\Desktop\cSharpBasic\pokemon\pokemon\bin\Debug\netcoreapp2.2\pokemon.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\cSharpBasic\pokemon\pokemon\bin\Debug\netcoreapp2.2\pokemon.dll
+C:\Users\Administrator\Desktop\cSharpBasic\pokemon\pokemon\bin\Debug\netcoreapp2.2\pokemon.pdb
+C:\Users\Administrator\Desktop\cSharpBasic\pokemon\pokemon\obj\Debug\netcoreapp2.2\pokemon.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\cSharpBasic\pokemon\pokemon\obj\Debug\netcoreapp2.2\pokemon.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\cSharpBasic\pokemon\pokemon\obj\Debug\netcoreapp2.2\pokemon.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\cSharpBasic\pokemon\pokemon\obj\Debug\netcoreapp2.2\pokemon.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\cSharpBasic\pokemon\pokemon\obj\Debug\netcoreapp2.2\pokemon.dll
+C:\Users\Administrator\Desktop\cSharpBasic\pokemon\pokemon\obj\Debug\netcoreapp2.2\pokemon.pdb
